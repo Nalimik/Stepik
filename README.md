@@ -1,2 +1,1 @@
-# Stepik
-For study some GIt
+"Мой первый репозиторий"
